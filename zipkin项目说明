@@ -6,4 +6,4 @@ zipkin客户端，以maven的形式引入项目，并在配置文件中指定服
 
 本项目是zipkin-server代码
 
-开源项目地址：https://github.com/cicadasmile/spring-cloud-base
+开源项目地址：https://github.com/openzipkin/zipkin/
